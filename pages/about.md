@@ -5,6 +5,8 @@ headshot: /assets/img/headshot.webp
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# Emma Witanowski
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+I hold both a Bachelor of Science in Environmental Science and a Bachelor of Arts in Geography, along with a minor in Studio Art, from Villanova University ('24). Currently, I am pursuing a Master of Urban Spatial Analytics from the University of Pennsylvania ('25).
+
+My research focus and personal interests revolve around using GIS and remote sensing to address pressing issues in conservation, sustainable land development, and neighborhood change analysis. Proficient in GIS and remote sensing software such as ArcGIS, QGIS, and Pix4D Mapper, I excel in spatial data analysis and visualization. My artistic background further enhances my ability to produce maps and visualizations that are not only functional but also aesthetically engaging, ensuring that complex data is both accessible and impactful.
